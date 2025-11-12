@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220850908205",
+    "project_id": "nonjion",
+    "storage_bucket": "nonjion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220850908205:android:2bcd02e5b1b7eb56db1ca4",
+        "android_client_info": {
+          "package_name": "css.cis3334.flutter_firestore_itemlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ebgFwyXLa_gjhySBXi5Z-1so_Y4H_Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220850908205:android:cab9ab3324fcbedbdb1ca4",
+        "android_client_info": {
+          "package_name": "css.cis3334.flutter_weatherapi_f25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ebgFwyXLa_gjhySBXi5Z-1so_Y4H_Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
